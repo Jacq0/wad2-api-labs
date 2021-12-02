@@ -1,2 +1,3 @@
-# wad2-api-labs
-The Web App Development 2 API labs 2021
+# Web App Dev 2: Web API Labs
+
+Practical labs for the WAD2 module, BSc. Applied/Software Systems Dev/Forensics 
